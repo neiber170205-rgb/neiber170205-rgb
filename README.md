@@ -58,7 +58,7 @@ Soy **Tecnólogo en Análisis y Desarrollo de Software** (SENA) y estudio **Inge
 </picture>
 </p>
 
-También trabajo con **ERPNext / Frappe**, **n8n**, **SQL Server**, **MariaDB**, Socket.io y Three.js.
+También trabajo con **ERPNext / Frappe**, **n8n**, **SQL Server** y **MariaDB**.
 
 ## Mi diferencial: ERPNext / Frappe
 
